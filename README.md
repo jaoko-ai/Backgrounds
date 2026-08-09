@@ -1,16 +1,28 @@
-This projects is just a Dynamic wallpapers for XFCE Just like MACOS wallpapers 
+## previews
 
-previews
+### **BigSur Preview**
+![BigSur Preview](preview/BigSurPreview.png)
 
-**BigSur Preview**
-![alt text](preview/BigSurPreview.png)
+### **CatalinaPreview**
+![Catalina Preview](preview/CatalinaPreview.png)
 
-**CatalinaPreview**
-![alt text](preview/CatalinaPreview.png)
+### **Mojave preview**
+![Mojave preview](preview/MojavePreview.png)
 
-**Mojave preview**
-![alt text](preview/MojavePreview.png)
+# Requirements 
 
-# *** Installation ***
+* Only the images are required  
+* Custom images can be used but must follow the same naming convention i.e img1.jpg img2.jpg img3.jpg...etc
 
+* Clone this to get the repo. Takes a while to decompress these images
 
+```
+git clone --depth=1 https://github.com/jaoko-ai/Backgrounds.git
+```
+
+# Installation
+
+1. open XFCE settings editor
+2. Click on display
+3. Pick a folder btw catalina, bigsur and Mojave
+4. Set change backgrounds to chronological and your all set
